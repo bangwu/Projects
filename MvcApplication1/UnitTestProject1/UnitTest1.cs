@@ -1,6 +1,9 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MvcApplication1.Controllers;
+using System.Net;
+using System.Net.Http;
+
 
 namespace UnitTestProject1
 {
@@ -11,7 +14,7 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
             FoodController foodController = new FoodController();
-            //Assert.AreEqual("nihao", foodController.get());
+            Assert.AreEqual(HttpStatusCode.OK, foodController.get().StatusCode);
         }
     }
 }

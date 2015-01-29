@@ -10,3 +10,15 @@
 \\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\System.Web.Mvc.dll
 \\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\xunit.xml
 \\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\System.Web.Mvc.xml
+C:\Users\bangwu\Documents\Visual Studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\bangwu\Documents\Visual Studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\bangwu\Documents\Visual Studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\MvcApplication1.dll
+C:\Users\bangwu\Documents\Visual Studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\xunit.dll
+C:\Users\bangwu\Documents\Visual Studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\System.Web.Mvc.dll
+C:\Users\bangwu\Documents\Visual Studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bangwu\Documents\Visual Studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\MvcApplication1.pdb
+C:\Users\bangwu\Documents\Visual Studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\xunit.xml
+C:\Users\bangwu\Documents\Visual Studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\System.Web.Mvc.xml
+C:\Users\bangwu\Documents\Visual Studio 2013\Projects\MvcApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\bangwu\Documents\Visual Studio 2013\Projects\MvcApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\bangwu\Documents\Visual Studio 2013\Projects\MvcApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
