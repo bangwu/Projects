@@ -1,0 +1,12 @@
+\\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+\\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+\\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\MvcApplication1.dll
+\\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+\\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\MvcApplication1.pdb
+\\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+\\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+\\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\xunit.dll
+\\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\System.Web.Mvc.dll
+\\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\xunit.xml
+\\psf\home\documents\visual studio 2013\Projects\MvcApplication1\UnitTestProject1\bin\Debug\System.Web.Mvc.xml
